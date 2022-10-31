@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.126.16.160:8081/sujan/repository/walmart-release/</url>
+	      <url>http://13.126.205.99:8081/sujan/repository/walmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.126.16.160:8081/sujan/repository/walmart-snapshot/</url>
+	      <url>http://13.126.205.99:8081/sujan/repository/walmart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
