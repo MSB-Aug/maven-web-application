@@ -1,8 +1,5 @@
-node('walmartnode'){
-    
-    try{
-    
-    slackNotifications('STARTED')
+node{
+
   def mavenHome = tool name: 'maven3.8.6'
   
   echo "The JobName is: ${env.JOB_NAME}"
@@ -35,5 +32,4 @@ node('walmartnode'){
    }
    }
   
-}
 }
