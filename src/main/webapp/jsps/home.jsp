@@ -17,13 +17,13 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
+		MSB, 
+		Bellandur,
 		Bangalore,
-		+91-9980923226,
-		devopstrainingbr@gmail.com
+		+91-**********,
+		msb@gmail.com
 		<br>
-		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:msb@gmail.com">Mail to Mithun Technologies</a>
 	</span>
 </div>
 <hr>
@@ -31,7 +31,7 @@
 <hr>
 <hr>
 <p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mithuntechnologies.com/">Mithun Technologies</a> </small></p>
+<p align=center><small>Copyrights 2021 by <a href="http://msbtechnologies.com/">MSB Technologies</a> </small></p>
 
 </body>
 </html>
