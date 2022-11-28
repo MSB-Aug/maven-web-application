@@ -23,7 +23,7 @@
 		+91-**********,
 		msb@gmail.com
 		<br>
-		<a href="mailto:msb@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:msb@gmail.com">Mail to MSB Technologies</a>
 	</span>
 </div>
 <hr>
