@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MSBTechnologies- Home Page</title>
+<title>MSBTechnoHub- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to CZ - Jenkins Demo-1 ....</h1>
-<h1 align="center"> Welcome to CZ.........</h1>
+<h1 align="center"> Welcome to MSB TechnoHub ....</h1>
+<h1 align="center"> Jenkins CI-CD.........</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
@@ -23,15 +23,15 @@
 		+91-**********,
 		msb@gmail.com
 		<br>
-		<a href="mailto:msb@gmail.com">Mail to MSB Technologies</a>
+		<a href="mailto:msb@gmail.com">Mail to MSB TechnoHub</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Mithun Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2021 by <a href="http://msbtechnologies.com/">MSB Technologies</a> </small></p>
+<p align=center>MSB TechnoHub - Consultants, Trainings, Development Center.</p>
+<p align=center><small>Copyrights 2021 by <a href="http://msbtechnoHub.com/">MSB TechnoHub</a> </small></p>
 
 </body>
 </html>
