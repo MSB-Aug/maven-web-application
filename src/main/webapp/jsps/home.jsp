@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to CZ - Jenkins Demo-1 ....</h1>
-<h1 align="center"> Welcome to CZ........</h1>
+<h1 align="center"> Welcome to CZ.........</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
